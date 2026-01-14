@@ -28,9 +28,22 @@ In my spare time, I actively contribute to open-source projects to keep myself u
 # 🧑🏻‍🎓 Work Experience
 
 ## [Nokia](https://www.nokia.com/)
-**Thesis worker**, will start from 2nd Jan. 2025
+**Software R&D Engineer**, Jan. 2026 - present
 
-- TO BE DETERMINED
+- AI Agent developer
+- Full-stack product owner, managing the whole life cycle of a software product
+from application maintanance to deployment
+- Maintainer of PaCo software
+
+## [Nokia](https://www.nokia.com/)
+**Thesis worker**, Jan. 2025 - Dec. 2025, 12 month
+
+- The thesis work involves RAG, LLM, documentation processing and data analysis (50%).
+- Another 50% work is non-thesis related and invovles helping the team with dev
+issues. The parts I am responsible for includes CI/CD, IoC provisioning,
+Designing cloud-native architectures and integrating third-party software such
+as Grafana, OpenSearch, etc.
+
 
 ## [CS-IT, Aalto University](https://scicomp.aalto.fi/about/cs-it/)
 **Web developer intern**, Oct. 2024 - Dec. 2024, 3 months
