@@ -20,7 +20,7 @@ redirect_from:
 # 🚶🏻 About Me
 
 I am a:
-- Software Enineer, [Nokia](https://www.nokia.com/).
+- Software Engineer, [Nokia](https://www.nokia.com/).
 - Master of Science, major in [computer science](https:
 //www.aalto.fi/en/programmes/masters-programme-in-computer-communication-and-information-sciences),
 [Aalto University](https://www.aalto.fi/en).
